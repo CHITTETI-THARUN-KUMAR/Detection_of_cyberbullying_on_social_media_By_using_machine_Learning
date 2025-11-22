@@ -1,4 +1,4 @@
-# Detection-of-HateOffenseAbuse-In-SocialMedia-NLP-Python
+# Detection Of Cyberbullying On Social Media By Using Machine Learning
 
 The analysis and model is explained in the detection-hate-offensive.pdf file which also serves as the technical paper for this research.
 
